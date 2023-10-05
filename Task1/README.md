@@ -2,11 +2,11 @@
 
 ## Array Input Instructions
 
-Please follow these instructions when entering the array of comma-separated positive integers:
+Please follow these instructions when entering the data:
 
-1. Enter a comma-separated list of positive integers. For example: `1, 2, 3, 4, 5`.
+1. Ensure that the input array is not null. If you provided an empty or null array, please rerun the application and provide a valid array.
 
-2. Ensure that the input array is not null. If you provided an empty or null array, please rerun the application and provide a valid array.
+2. Enter a comma-separated list of positive integers. For example: `4, 5, 1, 4, 5, 4, 4, 1`.
 
 3. The array must contain at least 2 pairs of numbers. If your array does not meet this requirement, please rerun the application and provide a valid array with at least 2 pairs of numbers.
 

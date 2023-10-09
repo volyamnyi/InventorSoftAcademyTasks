@@ -36,7 +36,7 @@ customRange.generateCustomRange(Arrays.asList("B", "D", "E"));
 ### generateNumberRange(): Generates a numeric range based on the type of the start value. It dynamically selects the appropriate range generation method for the numeric type.
 ### isBetween(T element): Checks if the range contains a specific element.
 ### isBefore(T element): Checks if the specific element is before the start value.
-### isAfter(T element): Checks if the specific element is after the start value.
+### isAfter(T element): Checks if the specific element is after the end value.
 ### add(T t): Adds an element to the range if it is within the start and end values.
 ### addAll(Collection<? extends T> c): Adds a collection of elements to the range if their values are within the start and end values.
 ### The rest methods have standard Set implementation.
